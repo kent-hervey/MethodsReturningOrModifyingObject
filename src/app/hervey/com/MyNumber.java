@@ -8,6 +8,19 @@ public class MyNumber {
 		this.theNumber = i;
 	}
 
+	public void makeObjectDoubleNumber() {
+		this.theNumber = this.theNumber * 2;
+
+		
+	}
+
+	public Integer getReturnedDoubleNumber() {
+		// TODO Auto-generated method stub
+		return this.theNumber * 2;
+	}
+
+
+
 	
 	
 	
